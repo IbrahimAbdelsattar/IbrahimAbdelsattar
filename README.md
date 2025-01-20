@@ -1,4 +1,4 @@
-# Ibraahim-Abdelsattar
+# My Projects
 <div align="center">
   <img src="https://profile-counter.glitch.me/IbrahimAbdelsattar/count.svg?"  />
 </div>
