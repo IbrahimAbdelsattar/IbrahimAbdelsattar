@@ -1,4 +1,61 @@
 # My Projects
+
+Hi there, I'm Ibrahim Abdelsattar! 👋
+
+🚀 About Me
+
+I'm a passionate AI enthusiast and Computer and Artificial Intelligence student at MTI University in Cairo, with an expected graduation in 2028. I thrive on solving complex problems, learning new technologies, and using AI to make a meaningful impact.
+
+With hands-on experience in machine learning, data science, and software development, I build innovative projects that showcase my technical skills and analytical thinking. I believe in continuous learning and am always exploring the latest advancements in AI.
+
+💻 What I Do
+
+✅ AI Engineering & Data Science: I work on AI models, train machine learning algorithms, and prepare clean, insightful datasets.
+
+✅ Programming: Proficient in Python and C++, with experience building applications and automating tasks.
+
+✅ Data Analysis & Visualization: From exploratory data analysis (EDA) to creating interactive visualizations with Pandas, Matplotlib, and Seaborn.
+
+✅ Virtual Assistance: Trained Virtual Assistant with experience in administrative support, email communication, task management, and social media management.
+
+✅ Content Creation: I manage YouTube and TikTok channels, publishing AI-generated stories that captivate and engage audiences.
+
+🌟 Why Choose Me?
+
+👉 Strong Problem-Solving Skills: I tackle challenges head-on, whether it's debugging code, optimizing machine learning models, or managing large datasets efficiently.
+
+👉 Professional Communication: I work well independently and in teams, ensuring smooth collaboration and clear communication.
+
+👉 Tech-Savvy & Adaptive: I leverage AI tools to complete tasks faster and more effectively, staying ahead of the curve in the ever-evolving tech landscape.
+
+👉 Detail-Oriented: Whether it's developing a machine learning model, conducting research for a conference presentation, or supporting administrative tasks, I deliver high-quality results with precision and care.
+
+🎓 Certifications & Courses
+
+AI Career Essentials - ALX (May 2024)
+
+Data Science & Analytics - HP (September 2024)
+
+Virtual Assistant Training - ALX (Ongoing)
+
+AI & Data Science Track - Digital Egypt Pioneers Initiative (DEPI) (Oct 2024 - May 2025)
+
+📊 Featured Projects
+
+Employee Attrition Prediction & Analysis - Machine learning model to analyze factors affecting employee retention.
+
+Heart Failure Prediction - Predictive analysis using Random Forest and SHAP values.
+
+Exploratory Data Analysis on Netflix - Visualizing and analyzing trends in Netflix data.
+
+Age Calculator & AI Quiz App - Python projects demonstrating logic, UI, and functionality.
+
+📩 Let's Connect!
+
+📧 Email: mozedwn164@gmail.com🔗 LinkedIn: Ibrahim Abdelsattar🌐 GitHub: Ibraahim-Abdelsattar
+
+✨ I’m open to freelance projects, internships, and collaborative opportunities. Let’s build something amazing together!
+
 <div align="center">
   <img src="https://profile-counter.glitch.me/IbrahimAbdelsattar/count.svg?"  />
 </div>
