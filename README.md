@@ -52,7 +52,7 @@ Age Calculator & AI Quiz App - Python projects demonstrating logic, UI, and func
 
 📩 Let's Connect!
 
-📧 Email: mozedwn164@gmail.com🔗 LinkedIn: Ibrahim Abdelsattar🌐 GitHub: Ibraahim-Abdelsattar
+📧 Email: ibrahimabdelsattar042@gmail.com🔗
 
 ✨ I’m open to freelance projects, internships, and collaborative opportunities. Let’s build something amazing together!
 
