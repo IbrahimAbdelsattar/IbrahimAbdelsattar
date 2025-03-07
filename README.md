@@ -146,11 +146,7 @@ Age Calculator & AI Quiz App - Python projects demonstrating logic, UI, and func
 <div align="center">
 </div>
 
-###
 
-<img src="https://raw.githubusercontent.com/IbrahimAbdelsattar/IbrahimAbdelsattar/output/snake.svg" alt="Snake animation" />
-
-###
 
 <p align="left">Hello World!!</p>
 
