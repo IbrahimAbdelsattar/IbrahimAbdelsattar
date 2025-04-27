@@ -31,7 +31,7 @@ I specialize in end-to-end project development from data gathering to model depl
 Here are some of the most significant projects I've worked on:
 
 - **Bank Term Deposit Prediction:**  
-  Built a predictive model to identify whether customers will subscribe to a term deposit based on their profile and campaign interactions. (This Repository 🔥)
+  Built a predictive model to identify whether customers will subscribe to a term deposit based on their profile and campaign interactions.
 
 - **Employee Attrition Prediction:**  
   Developed a machine learning model to predict employee turnover, helping businesses retain valuable talent.
