@@ -46,11 +46,6 @@ Here are some of the most significant projects I've worked on:
   Built a scraper and analyzer for financial stock market data to provide insights for investors.
 
 ---
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdullawagih1&show_icons=true&locale=en&layout=compact" alt="abdullawagih1" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdullawagih1&show_icons=true&locale=en" alt="abdullawagih1" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdullawagih1&" alt="abdullawagih1" /></p>
 
 # 📈 Let's Connect
 I'm passionate about continuous learning and building impactful data solutions.
