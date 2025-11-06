@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ibrahim-abdelsattar&style=flat-square&color=blue" alt="Profile views" />
+</p>
+
 # Hi there 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
@@ -125,7 +129,7 @@ My projects showcase my ability to **turn real-world data into actionable insigh
 
 ---
 
-### 📊 My Stats & Activity
+## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -137,22 +141,10 @@ My projects showcase my ability to **turn real-world data into actionable insigh
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/ibrahim-abdelsattar">
-    <img src="https://www.codewars.com/users/ibrahim-abdelsattar/badges/small" alt="Codewars Rank">
-  </a>
-  <a href="https://leetcode.com/ibrahim-abdelsattar/">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode Profile">
-  </a>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ibrahim-abdelsattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
-
-### 🤝 Organizations I've Contributed To
-
-<p align="left">
-  <a href="YOUR_HAMS_AI_LINK"> <img src="YOUR_HAMS_AI_LOGO_URL" alt="HAMS.AI" width="60"> </a>
-  
-  <a href="YOUR_NEURONIX_LINK"> <img src="YOUR_NEURONIX_LOGO_URL" alt="Neuronix AI Solutions" width="60"> </a>
-</p>
+---
 
 ## 🚀 Connect with Me
 - LinkedIn: [Ibrahim Abdelsattar](https://www.linkedin.com/in/ibrahim-abdelsattar)  
