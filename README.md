@@ -136,10 +136,6 @@ My projects showcase my ability to **turn real-world data into actionable insigh
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=IbrahimAbdelsattar&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
 ---
 
 ## 🚀 Connect with Me
