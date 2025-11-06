@@ -1,54 +1,63 @@
-# 👋 About Me
+# Hi there 👋, I'm Ibrahim Abdelsattar
 
-Hi, I'm **Ibrahim Abdelsattar**, a passionate **Data Scientist** and **AI Enthusiast** based in Cairo, Egypt.  
-I'm currently pursuing my **Bachelor's degree in Computer and Artificial Intelligence** at **MTI University** (expected graduation: 2028).  
-I have a strong passion for solving real-world problems through **Data Science, Machine Learning, and AI** techniques, blending technical skills with creativity.
+I'm a **Junior Data Scientist & AI Engineer**, passionate about building AI-powered solutions that solve real-world problems in a simple and practical way. I love exploring **Machine Learning, Deep Learning, NLP, and Data Analytics**, and I enjoy turning complex data into actionable insights.  
 
 ---
 
-# 🚀 Experience
-
-I have hands-on experience in:
-- **Data Science and Machine Learning** through internships like the **Digital Egypt Pioneers Initiative** and **Intern Intelligence**.
-- Volunteering as a **Virtual Assistant** at **ALX**.
-- Leading as the **Head of the AI Field** at **4Mind** Student Activity.
-
-I specialize in end-to-end project development from data gathering to model deployment and communication of insights.
+## 🏫 Education
+- **B.Sc. in Computer and Artificial Intelligence** – MTI University (3rd Year)  
 
 ---
 
-# 🛠️ Skills
+## 💼 Professional Experience
+- **AI Engineer** – HAMS.AI  
+- **Founder & Lead** – Neuronix AI Solutions  
+  - Leading a cross-functional team of AI engineers, frontend/backend developers, Flutter & UI/UX designers to build AI solutions for **Healthcare, HR, Finance, Marketing, and Manufacturing**.  
+  - Oversaw the creation of AI-powered projects from concept to deployment.
 
-- **Programming Languages:** Python, R, C++, SQL, JAVA
-- **Data Analysis and Visualization:** Pandas, NumPy, Matplotlib, Seaborn, Power BI
-- **Machine Learning & AI:** Scikit-learn, TensorFlow basics
-- **Other Skills:** Web scraping, Data preprocessing, Model evaluation, Virtual Assistance, Administrative Support
+- **Social Media & Personal Branding Expertise**  
+  - Creating educational and professional content for LinkedIn to showcase AI projects and insights.  
 
 ---
 
-# 🌟 Featured Projects
+## 🛠 Skills
 
-Here are some of the most significant projects I've worked on:
+### Programming & Development
+- Python | SQL | C++ | Java 
+- Libraries: **Pandas, NumPy, Scikit-learn, TensorFlow, PyTorch, Transformers**  
 
-- **Bank Term Deposit Prediction:**  
-  Built a predictive model to identify whether customers will subscribe to a term deposit based on their profile and campaign interactions.
+### Data Science & AI
+- Machine Learning: Regression, Classification, Clustering, NLP  
+- Deep Learning: CNNs, RNNs, Transformers  
+- Data Analysis: EDA, Visualization, Dashboard Creation (Power BI, Matplotlib, Seaborn)  
+- AI Projects Deployment & Optimization  
 
-- **Employee Attrition Prediction:**  
-  Developed a machine learning model to predict employee turnover, helping businesses retain valuable talent.
+### Tools & Platforms
+- Git & GitHub  
+- Jupyter Notebook | VS Code  
+- Power BI | Excel
 
-- **Heart Failure Prediction:**  
-  Created a data-driven system that predicts the likelihood of heart failure based on patient health indicators.
+---
 
-- **Mall Customer Segmentation:**  
-  Applied clustering techniques to segment mall customers for better-targeted marketing strategies.
+## 🏆 Projects & Experience Highlights
+I have hands-on experience building a variety of **AI, ML, and data-driven projects**, ranging from **sentiment analysis, predictive modeling, and customer segmentation** to **desktop and web applications**.  
 
-- **Stock Data Extraction:**  
-  Built a scraper and analyzer for financial stock market data to provide insights for investors.
+My projects showcase my ability to **turn real-world data into actionable insights** and **deploy practical AI solutions** for different industries, including **education, healthcare, finance, retail, and HR**.
 
 
-# 📈 Let's Connect
-I'm passionate about continuous learning and building impactful data solutions.
+---
 
-- 🔗 [Personal Website](https://sites.google.com/view/ibrahimabdelsattar)
-- 💼 [LinkedIn](https://www.linkedin.com/in/ibrahimabdelsattar/)
-- 💻 Check out more projects here on my GitHub!
+## 🚀 Connect with Me
+- LinkedIn: [Ibrahim Abdelsattar](https://www.linkedin.com/in/ibrahim-abdelsattar)  
+- GitHub: [@ibrahim-abdelsattar](https://github.com/ibrahim-abdelsattar)  
+- Email: ibrahim.abdelsattar@example.com  
+
+---
+
+## 💬 Fun Fact
+"وكان معكم إبراهيم عبدالستار، Junior Data Scientist، بحاول أقدّم حلول لمشاكل كتير بطريقة مبسطة وسهلة، وأعمل مشاريع لحل مشاكل عملية."  
+
+---
+
+## 📊 GitHub Stats
+![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-abdelsattar&show_icons=true&theme=radical)
