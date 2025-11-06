@@ -57,7 +57,3 @@ My projects showcase my ability to **turn real-world data into actionable insigh
 ## 💬 Fun Fact
 "وكان معكم إبراهيم عبدالستار، Junior Data Scientist، بحاول أقدّم حلول لمشاكل كتير بطريقة مبسطة وسهلة، وأعمل مشاريع لحل مشاكل عملية."  
 
----
-
-## 📊 GitHub Stats
-![Ibrahim's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ibrahim-abdelsattar&show_icons=true&theme=radical)
