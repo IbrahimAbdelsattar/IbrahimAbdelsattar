@@ -1,4 +1,13 @@
-# Hi there 👋, I'm Ibrahim Abdelsattar
+# Hi there 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
+<h3> Here's some fun facts about me: </h3>
+
+- **I am a ***Ibrahim Abdelsattar***⚡🧙🏻‍♂️**
+-  **I'm a hopeful AI & Data Science 👩🏻‍💻**
+-  **I am a true science lover 🔬**
+-  **Finally, I'm a football-watching frenzy ⚽!**
+-  **I'm the founder of Neuronix AI Solutions**
 
 I'm a **Junior Data Scientist & AI Engineer**, passionate about building AI-powered solutions that solve real-world problems in a simple and practical way. I love exploring **Machine Learning, Deep Learning, NLP, and Data Analytics**, and I enjoy turning complex data into actionable insights.  
 
