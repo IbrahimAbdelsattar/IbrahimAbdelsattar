@@ -78,20 +78,6 @@ My projects showcase my ability to **turn real-world data into actionable insigh
 
 ---
 
-### 🙋‍♂️ About Me
-
-<p>
-  🎓 I’m a third-year Computer and Artificial Intelligence student at MTI University and an 💼 AI Engineer at <strong>HAMS.AI</strong>. 
-  <br><br>
-  I specialize in building AI and machine learning solutions across industries like Healthcare, HR, Finance, Marketing, and Manufacturing. Currently, I’m focused on developing AI-powered projects, from sentiment analysis to predictive analytics and recommendation systems.
-  <br><br>
-  🧠 I’m continuously learning advanced AI techniques, transformer-based models, deep neural networks, and ways to optimize ML pipelines. My goal is to create practical AI solutions that solve real-world problems in a simple and effective way.
-  <br><br>
-  💡 Outside of work, I enjoy exploring new AI technologies, experimenting with data-driven projects, and sharing my knowledge through tutorials and practical demos. Fun fact: I’ve worked on over 10 diverse AI projects, including Arabic and English sentiment analysis, predictive modeling, and recommendation engines.
-</p>
-
----
-
 ### 🛠️ My Tech Stack
 
 <p align="left">
