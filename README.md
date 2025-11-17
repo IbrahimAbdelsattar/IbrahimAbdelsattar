@@ -1,5 +1,12 @@
-# Hi there 👋
+<h1 align="center">
+  Hi there! 👋 I'm Ibrahim Abdelsattar
+</h1>
 
+<h3 align="center">
+  AI Engineer | Junior Data Scientist
+</h3>
+
+# 💫 About Me:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=7AF79A&size=30&lines=Hey!+It's+AvidCoder!;I'm+a+learning+developer...;I'm+a+CRAZY+football+fan;And+I'm+a+proud+GitHub+user)](https://git.io/typing-svg)
 <h3> Here's some fun facts about me: </h3>
 
@@ -53,19 +60,6 @@ I have hands-on experience building a variety of **AI, ML, and data-driven proje
 
 My projects showcase my ability to **turn real-world data into actionable insights** and **deploy practical AI solutions** for different industries, including **education, healthcare, finance, retail, and HR**.
 
-
----
-
-<h1 align="center">
-  Hi there! 👋 I'm Ibrahim Abdelsattar
-</h1>
-
-<h3 align="center">
-  AI Engineer | Junior Data Scientist | Problem Solver
-</h3>
-
-# 💫 About Me:
-🛠️ I’m currently working on<br><br>Building AI solutions with my startup team Neuronix AI Solutions, focusing on ML, DL, and end-to-end data projects.<br><br>🤝 I’m looking to collaborate on<br><br>AI projects, data analysis dashboards, NLP models, and real-world ML applications.<br><br>🧠 I’m looking for help with<br><br>Advanced MLOps practices & deploying scalable AI systems.<br><br>🌱 I’m currently learning<br><br>Deep Learning architectures, LLM fine-tuning, and Cloud-based AI deployment.<br><br>💬 Ask me about<br><br>Machine Learning, Deep Learning, NLP, Data Analysis, and building AI projects from scratch.<br><br>⚡ Fun fact<br><br>I love teaching AI concepts in a simple way, and I’ve completed 11+ projects across NLP, CV, ML, and Analytics.
 
 
 ## 🌐 Socials:
