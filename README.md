@@ -1,14 +1,38 @@
 <h1 align="center">
-  Hi there! 👋 I'm Ibrahim Abdelsattar
+  Hi there 👋, I'm <b>Ibrahim Abdelsattar</b>
 </h1>
 
 <h3 align="center">
   AI Engineer | Junior Data Scientist
 </h3>
-# 💻 Tech Stack:
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=800&color=38BDF8&center=true&vCenter=true&width=550&lines=AI+Engineer+%26+Data+Scientist;Building+AI-powered+solutions;Machine+Learning+%7C+Deep+Learning+%7C+NLP;Turning+Data+into+Impact" />
+</p>
+
+---
+
+## 🧠 About Me
+
+I'm a **Junior Data Scientist & AI Engineer** passionate about building **AI-powered solutions** that solve real-world problems in a **simple, scalable, and practical way**.
+
+I enjoy working across the full AI pipeline — from **data analysis and modeling** to **deployment and optimization** — with strong interests in:
+
+- 🤖 Machine Learning & Deep Learning  
+- 🧠 Natural Language Processing (NLP)  
+- 📊 Data Analytics & Visualization  
+- 🚀 AI Product Development  
+
+I'm also the **Founder of Neuronix AI Solutions**, where I lead and collaborate with multidisciplinary teams to build applied AI systems for multiple industries.
+
+---
+
+## 💻 Tech Stack
+
+### 👨‍💻 Programming Languages
+![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![C++](https://img.shields.io/badge/C++-00599C?style=plastic&logo=c%2B%2B&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=plastic&logo=java&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
 ![R](https://img.shields.io/badge/R-276DC3?style=plastic&logo=r&logoColor=white)
 
 
