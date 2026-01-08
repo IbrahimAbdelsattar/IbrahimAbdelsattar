@@ -115,9 +115,6 @@ My projects showcase my ability to **turn real-world data into actionable insigh
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
----
-[![](https://visitcount.itsvg.in/api?id=IbrahimAbdelsattar&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
   
