@@ -327,7 +327,7 @@ Building and deploying production machine learning systems.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IbrahimAbdelsattar&theme=tokyonight&hide_border=true&border_radius=8" width="62%" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=IbrahimAbdelsattar&theme=tokyonight" width="62%" alt="Contribution streak" />
 
 <br/><br/>
 
