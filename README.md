@@ -57,12 +57,6 @@ const ibrahim: AIEngineer = {
 
 I build the **entire pipeline** — data ingestion, model training, API layer, frontend, containerization, deployment. My work spans AI systems for **education, recruitment, supply chain, healthcare, media integrity, and corporate learning** — most of it shipped as real products, not experiments.
 
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbrahimAbdelsattar&theme=github_dark" width="82%" alt="Live profile summary" />
-
-</div>
-
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F0FF&height=2&section=header" width="100%" alt="" />
 
 <!-- ══════════════════════════ ARSENAL ══════════════════════════ -->
