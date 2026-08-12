@@ -19,26 +19,21 @@
 <img src="https://komarev.com/ghpvc/?username=IbrahimAbdelsattar&label=Profile%20Views&color=00F0FF&style=flat-square" alt="Profile views" />
 <img src="https://img.shields.io/github/followers/IbrahimAbdelsattar?label=Followers&style=flat-square&color=7C3AED&labelColor=0D1117" alt="Followers" />
 <img src="https://img.shields.io/github/stars/IbrahimAbdelsattar?label=Stars&style=flat-square&color=FFB700&labelColor=0D1117" alt="Stars" />
-<img src="https://img.shields.io/badge/Repositories-52-10B981?style=flat-square&labelColor=0D1117" alt="Repos" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,50:7C3AED,100:FFB700&height=3&section=header" width="100%" alt="" />
 
 </div>
 
-<!-- ══════════════════════════ ABOUT ══════════════════════════ -->
+<!-- ══════════════════════════ WHOAMI ══════════════════════════ -->
 
 ## 🧠 &nbsp;`whoami`
 
-<table>
-<tr>
-<td width="57%" valign="top">
-
 ```ts
-const ibrahim = {
+const ibrahim: AIEngineer = {
   role:      "Full-Stack AI Engineer",
   founder:   "Neuronix AI Solutions",
   engineer:  "HAMS.AI",
-  education: "B.Sc. Computer Science & AI, MTI University",
+  education: "B.Sc. Computer Science & AI — MTI University",
   location:  "Cairo, Egypt 🇪🇬",
 
   focus: [
@@ -48,47 +43,27 @@ const ibrahim = {
     "Arabic NLP & bilingual AI products",
   ],
 
-  shipping: {
+  stack: {
     frontend: ["React 19", "Next.js", "Three.js", "Tailwind"],
     backend:  ["FastAPI", "ASP.NET Core 8", "Flask"],
     ml:       ["PyTorch", "TensorFlow", "LangGraph", "Transformers"],
     infra:    ["Docker", "GitHub Actions", "Nginx", "pgvector"],
   },
 
-  philosophy: "Research is a demo. Deployment is the product.",
+  buildsEndToEnd: ["data", "model", "API", "UI", "deploy"],
+  philosophy:     "Research is a demo. Deployment is the product.",
 };
 ```
 
-</td>
-<td width="43%" valign="top">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbrahimAbdelsattar&theme=github_dark" width="100%" alt="Profile summary" />
-
-</td>
-</tr>
-</table>
-
-> I build the **entire pipeline** — data ingestion, model training, API layer, frontend, containerization, deployment.
-> Across **52 repositories** I've shipped AI systems for **education, recruitment, supply chain, healthcare, media integrity, and corporate learning** — the majority as real products, not experiments.
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F0FF&height=2&section=header" width="100%" alt="" />
-
-<!-- ══════════════════════════ CURRENTLY ══════════════════════════ -->
-
-## 🔭 &nbsp;Currently Building
+I build the **entire pipeline** — data ingestion, model training, API layer, frontend, containerization, deployment. My work spans AI systems for **education, recruitment, supply chain, healthcare, media integrity, and corporate learning** — most of it shipped as real products, not experiments.
 
 <div align="center">
 
-| Project | What it is | Stack | |
-|:--|:--|:--|:--:|
-| **J.A.R.V.I.S. Executive OS** | Personal AI chief of staff — holographic HUD, 3D VR workspace, hand-gesture control, voice + vision + live world data | `React 19` `FastAPI` `Three.js` `MediaPipe` | <img src="https://img.shields.io/badge/active-00F0FF?style=flat-square&labelColor=0D1117" /> |
-| **Soliman Group** | Corporate platform for a multi-company group — brand hierarchy architecture, production-grade responsive build | `TypeScript` `React` `Tailwind` | <img src="https://img.shields.io/badge/active-00F0FF?style=flat-square&labelColor=0D1117" /> |
-| **Trio Academy LMS** | Enterprise corporate LMS — Clean Architecture, JWT + refresh rotation, signed video delivery | `ASP.NET Core 8` `React` `MySQL` `Docker` | <img src="https://img.shields.io/badge/active-00F0FF?style=flat-square&labelColor=0D1117" /> |
-| **SupplyMind AI** | Demand forecasting & inventory optimization engine with explainability and real-time alerting | `Python` `FastAPI` `React` `MLOps` | <img src="https://img.shields.io/badge/public-10B981?style=flat-square&labelColor=0D1117" /> |
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IbrahimAbdelsattar&theme=github_dark" width="82%" alt="Live profile summary" />
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F0FF,100:7C3AED&height=2&section=header" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:7C3AED,100:00F0FF&height=2&section=header" width="100%" alt="" />
 
 <!-- ══════════════════════════ ARSENAL ══════════════════════════ -->
 
@@ -156,9 +131,12 @@ const ibrahim = {
 
 ### 📦 &nbsp;[SupplyMind AI](https://github.com/IbrahimAbdelsattar/SupplyMindAI)
 
-Enterprise AI platform for intelligent supply chain operations — demand **forecasting**, inventory **optimization**, model **explainability**, MLOps lifecycle, and real-time alerting.
+Enterprise AI platform for intelligent supply chain operations — demand **forecasting**, inventory **optimization**, model **explainability**, full MLOps lifecycle, and real-time alerting.
 
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" />
+<a href="https://github.com/IbrahimAbdelsattar/SupplyMindAI"><img src="https://img.shields.io/github/stars/IbrahimAbdelsattar/SupplyMindAI?style=flat-square&color=FFB700&labelColor=0D1117&logo=github" /></a>
+<img src="https://img.shields.io/github/last-commit/IbrahimAbdelsattar/SupplyMindAI?style=flat-square&color=00F0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/languages/top/IbrahimAbdelsattar/SupplyMindAI?style=flat-square&color=7C3AED&labelColor=0D1117" />
+<br/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/MLOps-7C3AED?style=flat-square&labelColor=0D1117" />
@@ -168,36 +146,113 @@ Enterprise AI platform for intelligent supply chain operations — demand **fore
 
 ### 📰 &nbsp;[Mesdaq AI](https://github.com/IbrahimAbdelsattar/Mesdaq_AI)
 
-Arabic **fake-news detection** system combining classical ML with LLM reasoning — credibility scoring, sentiment analysis, and generated explanations for every verdict. *NTI final project, 4-engineer team.*
+Arabic **fake-news detection** system combining classical ML with LLM reasoning — credibility scoring, sentiment analysis, and a generated explanation behind every verdict.
 
+<a href="https://github.com/IbrahimAbdelsattar/Mesdaq_AI"><img src="https://img.shields.io/github/stars/IbrahimAbdelsattar/Mesdaq_AI?style=flat-square&color=FFB700&labelColor=0D1117&logo=github" /></a>
+<img src="https://img.shields.io/github/last-commit/IbrahimAbdelsattar/Mesdaq_AI?style=flat-square&color=00F0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/languages/count/IbrahimAbdelsattar/Mesdaq_AI?style=flat-square&color=7C3AED&labelColor=0D1117" />
+<br/>
 <img src="https://img.shields.io/badge/Arabic%20NLP-00F0FF?style=flat-square&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/LLM-7C3AED?style=flat-square&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
 ### 🧮 &nbsp;[NumeriX](https://github.com/IbrahimAbdelsattar/Numerix)
 
-Numerical Analysis **virtual lab** — 9 methods with step-by-step execution, Race Mode, animated 3D convergence trajectories, Newton fractals, error-geometry visualizer, and PDF export.
+Numerical Analysis **virtual lab** — step-by-step method execution, Race Mode, animated 3D convergence trajectories, Newton fractals, error-geometry visualizer, and PDF export.
 
-<img src="https://img.shields.io/badge/React%2018-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white&labelColor=0D1117" />
+<a href="https://github.com/IbrahimAbdelsattar/Numerix"><img src="https://img.shields.io/github/stars/IbrahimAbdelsattar/Numerix?style=flat-square&color=FFB700&labelColor=0D1117&logo=github" /></a>
+<img src="https://img.shields.io/github/last-commit/IbrahimAbdelsattar/Numerix?style=flat-square&color=00F0FF&labelColor=0D1117" />
+<img src="https://img.shields.io/github/languages/top/IbrahimAbdelsattar/Numerix?style=flat-square&color=7C3AED&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white&labelColor=0D1117" />
 
 </td>
 <td width="50%" valign="top">
 
-### 🚦 &nbsp;[Traffic Accident Prediction](https://github.com/IbrahimAbdelsattar/Traffic_Accident_Prediction)
+### 🤖 &nbsp;J.A.R.V.I.S. Executive OS
 
-End-to-end ML pipeline predicting road-accident **severity** — feature engineering on imbalanced data, model comparison, and a deployed inference interface.
+Personal **AI chief of staff** — holographic HUD, 3D VR workspace, and hands-free control. MediaPipe hand-gesture recognition, Three.js spatial UI, voice + vision + live world-context orchestration.
 
+<img src="https://img.shields.io/badge/private-6E7681?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/status-active-00F0FF?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/React%2019-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MediaPipe-00A6FB?style=flat-square&logo=google&logoColor=white&labelColor=0D1117" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 💼 &nbsp;Dawrly &nbsp;|&nbsp; دورلي
+
+Enterprise **AI job-recommendation** engine for the Egyptian & MENA market — semantic candidate–role matching over vector search, async job pipeline, and containerized CI/CD to GHCR.
+
+<img src="https://img.shields.io/badge/private-6E7681?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/domain-Recruitment%20AI-7C3AED?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/pgvector-4169E1?style=flat-square&logo=postgresql&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Celery-37814A?style=flat-square&logo=celery&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white&labelColor=0D1117" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🎓 &nbsp;Wajehni Academy
+
+Adaptive **AI learning platform** driven by a multi-agent LangGraph system — learner discovery, generated roadmaps, live resource aggregation, mastery-gated progression, multi-format exams, and gamification.
+
+<img src="https://img.shields.io/badge/private-6E7681?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/domain-Adaptive%20EdTech-7C3AED?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Clerk-6C47FF?style=flat-square&logo=clerk&logoColor=white&labelColor=0D1117" />
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### ☕ &nbsp;TeaTec &nbsp;|&nbsp; تيتك
+
+Bilingual, **Arabic-first e-learning SaaS** built on a "condensed learning" philosophy — focused sessions, interactive assessments, and automated certificates, with a native Android client alongside the web app.
+
+<img src="https://img.shields.io/badge/private-6E7681?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/domain-E--Learning%20SaaS-7C3AED?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/.NET%208-512BD4?style=flat-square&logo=dotnet&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white&labelColor=0D1117" />
+
+</td>
+<td width="50%" valign="top">
+
+### 🫀 &nbsp;BodyIQ
+
+**Health-AI** platform for body-composition intelligence — turning physiological measurements into analytics, tracking, and interpretable health insight.
+
+<img src="https://img.shields.io/badge/private-6E7681?style=flat-square&logo=github&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/domain-Health%20AI-7C3AED?style=flat-square&labelColor=0D1117" />
+<br/>
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white&labelColor=0D1117" />
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white&labelColor=0D1117" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white&labelColor=0D1117" />
+<img src="https://img.shields.io/badge/Analytics-10B981?style=flat-square&labelColor=0D1117" />
 
 </td>
 </tr>
@@ -205,39 +260,21 @@ End-to-end ML pipeline predicting road-accident **severity** — feature enginee
 
 <br/>
 
-### 🧩 &nbsp;Product Engineering — Private Builds
-
-<div align="center">
-
-| Product | Domain | Engineering Highlights | Stack |
-|:--|:--|:--|:--|
-| **Dawrly \| دورلي** | Recruitment AI | Semantic job–candidate matching for the MENA market; vector search, async task pipeline, containerized CI/CD to GHCR | `FastAPI` `React` `pgvector` `Celery` `Docker` |
-| **Wajehni Academy** | Adaptive EdTech | AI learning platform powered by **6 LangGraph agents** — learner discovery, roadmap generation, resource aggregation, mastery gating, multi-format exams, gamification | `FastAPI` `LangGraph` `React` `Clerk` |
-| **TeaTec \| تيتك** ☕ | E-Learning SaaS | Bilingual Arabic-first platform — condensed 2-hour curricula, assessments, automated certificates, plus a native Android client | `Next.js 16` `.NET 8` `MySQL` `Kotlin` |
-| **Trio Academy** | Corporate LMS | Clean Architecture API, JWT + HttpOnly refresh rotation, signed video playback, pluggable storage, Nginx + Docker Compose | `ASP.NET Core 8` `EF Core` `React` |
-| **J.A.R.V.I.S.** | Personal AI OS | Gesture-controlled holographic workspace — MediaPipe hand tracking, Three.js VR mode, live world-context feeds, voice + TTS orchestration | `React 19` `FastAPI` `Three.js` |
-| **BodyIQ** | Health AI | Body-composition intelligence and analytics interface | `ML` `HTML/JS` |
-| **Mini-RAG** | AI Infrastructure | Minimal, dependency-light retrieval-augmented generation service | `Python` `Vector DB` |
-
-</div>
-
-<br/>
-
 <details>
-<summary><b>📚 &nbsp;Machine Learning &amp; Data Science Portfolio — 25+ projects (click to expand)</b></summary>
+<summary><b>📚 &nbsp;More — Machine Learning &amp; Data Science portfolio (click to expand)</b></summary>
 
 <br/>
 
 | Domain | Projects |
 |:--|:--|
-| 🧠 **NLP & LLM** | [Arabic Sentiment Analysis](https://github.com/IbrahimAbdelsattar/Arabic-Sentiment-Analysis) · [Mesdaq AI](https://github.com/IbrahimAbdelsattar/Mesdaq_AI) · [Robust RAG Chatbot](https://github.com/IbrahimAbdelsattar/MR-NLP-Robust-RAG-Chatbot) · [Content Moderation System](https://github.com/IbrahimAbdelsattar/Moderation_System) · [Chatbot](https://github.com/IbrahimAbdelsattar/chatbot) |
+| 🧠 **NLP & LLM** | [Arabic Sentiment Analysis](https://github.com/IbrahimAbdelsattar/Arabic-Sentiment-Analysis) · [Robust RAG Chatbot](https://github.com/IbrahimAbdelsattar/MR-NLP-Robust-RAG-Chatbot) · [Content Moderation System](https://github.com/IbrahimAbdelsattar/Moderation_System) · [Chatbot](https://github.com/IbrahimAbdelsattar/chatbot) |
 | 🏥 **Healthcare AI** | [Heart Attack Detection](https://github.com/IbrahimAbdelsattar/Heart-Attack-Detection) · [Diabetes Prediction](https://github.com/IbrahimAbdelsattar/diabetes) · [GTC Diabetes Internship](https://github.com/IbrahimAbdelsattar/GTC-ML-Internship-Diabetes-Prediction) · [Calorie Expenditure Prediction](https://github.com/IbrahimAbdelsattar/Predict-Calorie-Expenditure) |
 | 💳 **Finance & Risk** | [Credit Card Fraud Detection](https://github.com/IbrahimAbdelsattar/Credit-card-Fraud-Detection) · [GTC Fraud Detection](https://github.com/IbrahimAbdelsattar/GTC-Fraud-Detection) · [Bank Term Deposit Prediction](https://github.com/IbrahimAbdelsattar/Bank-Term-Deposit-Prediction-) · [Customer Churn Analysis](https://github.com/IbrahimAbdelsattar/Customer-Churn-Analysis) |
 | 🚦 **Safety & Mobility** | [Traffic Accident Prediction](https://github.com/IbrahimAbdelsattar/Traffic_Accident_Prediction) · [Road Accident Severity](https://github.com/IbrahimAbdelsattar/Road-Accident-Severity-Prediction) · [Traffic](https://github.com/IbrahimAbdelsattar/traffic) |
 | 🛍️ **Retail & Marketing** | [Mall Customer Segmentation](https://github.com/IbrahimAbdelsattar/Mall-Customer-Segmentation-) · [Online Shoppers Purchase Intention](https://github.com/IbrahimAbdelsattar/Online-Shoppers-Purchase-Intention-Prediction) · [Retail Sales & Demographics](https://github.com/IbrahimAbdelsattar/Retail_Sales_and_Customer_Demographics_Analysis) · [Hotel Bookings](https://github.com/IbrahimAbdelsattar/gtc-ml-project1-hotel-bookings) |
 | 👥 **HR & Education** | [Employee Performance Rating](https://github.com/IbrahimAbdelsattar/Employee-Performance-Rating-Prediction) · [Student Final Grade Prediction](https://github.com/IbrahimAbdelsattar/Student-Final-Grade-Prediction) |
 | 🔊 **Audio & Vision** | [Audio Gender Classification](https://github.com/IbrahimAbdelsattar/Audio-Model-Classification-Gender) |
-| 🏗️ **Applications** | [NumeriX — Numerical Analysis Lab](https://github.com/IbrahimAbdelsattar/Numerix) · [Flight Reservation Desktop App](https://github.com/IbrahimAbdelsattar/Flight-Reservation-Desktop-App) |
+| 🏗️ **Applications** | [Flight Reservation Desktop App](https://github.com/IbrahimAbdelsattar/Flight-Reservation-Desktop-App) |
 | 🎓 **Programs** | [DEPI Data Science Projects](https://github.com/IbrahimAbdelsattar/Data-Science-Projects-.DEPI) · [DEPI Assignments](https://github.com/IbrahimAbdelsattar/Data-Science-Assignments.DEPI) · [Elevvo ML Internship](https://github.com/IbrahimAbdelsattar/Elevvo-ML-Internship) · [GTC California Housing](https://github.com/IbrahimAbdelsattar/GTC-ML-Internship-California-House-Price-Prediction) |
 
 </details>
@@ -290,7 +327,7 @@ Building and deploying production machine learning systems.
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=IbrahimAbdelsattar&background=0D1117&ring=00F0FF&fire=FFB700&currStreakLabel=00F0FF&sideLabels=9BB8CC&dates=6E7681&stroke=1F2937&border=1F2937&sideNums=9BB8CC&currStreakNum=FFFFFF" width="62%" alt="Contribution streak" />
+<img src="https://streak-stats.demolab.com?user=IbrahimAbdelsattar&theme=tokyonight&hide_border=true&border_radius=8" width="62%" alt="Contribution streak" />
 
 <br/><br/>
 
