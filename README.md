@@ -31,7 +31,7 @@
 ```ts
 const ibrahim: AIEngineer = {
   role:      "Full-Stack AI Engineer",
-  company:   "HAMS.AI",
+  company:   "EFS",
   education: "B.Sc. Computer Science & AI — MTI University",
   location:  "Cairo, Egypt 🇪🇬",
 
@@ -283,7 +283,7 @@ Bilingual, **Arabic-first e-learning SaaS** built on a "condensed learning" phil
 <td width="50%" valign="top">
 
 #### 🤖 &nbsp;Full-Stack AI Engineer
-`HAMS.AI`
+`EFS`
 
 Build and deploy production machine learning systems end to end — data pipelines, model training, API layer, frontend, and containerized delivery.
 
