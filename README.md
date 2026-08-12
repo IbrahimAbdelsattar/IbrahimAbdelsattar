@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,35:7C3AED,100:00F0FF&height=230&section=header&text=Ibrahim%20Abdelsattar&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20AI%20Engineer%20%C2%B7%20LLM%20Systems%20%C2%B7%20Applied%20Machine%20Learning&descAlignY=57&descSize=17&animation=fadeIn" width="100%" alt="Ibrahim Abdelsattar" />
 
 <a href="https://ibrahim-abdelsattar.netlify.app/">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Engineer+%7C+Cairo%2C+Egypt;I+ship+AI+products%2C+not+just+notebooks;LLM+Agents+%C2%B7+RAG+%C2%B7+MLOps+%C2%B7+Computer+Vision;FastAPI+%2B+React+%2B+PyTorch+%2B+Docker;Founder+of+Neuronix+AI+Solutions" alt="Roles" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2600&pause=900&color=00F0FF&center=true&vCenter=true&width=800&lines=Full-Stack+AI+Engineer+%7C+Cairo%2C+Egypt;I+ship+AI+products%2C+not+just+notebooks;LLM+Agents+%C2%B7+RAG+%C2%B7+MLOps+%C2%B7+Computer+Vision;FastAPI+%2B+React+%2B+PyTorch+%2B+Docker;Data+%E2%86%92+Model+%E2%86%92+API+%E2%86%92+UI+%E2%86%92+Deploy" alt="Roles" />
 </a>
 
 <br/>
@@ -31,8 +31,7 @@
 ```ts
 const ibrahim: AIEngineer = {
   role:      "Full-Stack AI Engineer",
-  founder:   "Neuronix AI Solutions",
-  engineer:  "HAMS.AI",
+  company:   "HAMS.AI",
   education: "B.Sc. Computer Science & AI — MTI University",
   location:  "Cairo, Egypt 🇪🇬",
 
@@ -283,15 +282,12 @@ Bilingual, **Arabic-first e-learning SaaS** built on a "condensed learning" phil
 <tr>
 <td width="50%" valign="top">
 
-#### 🏢 &nbsp;Founder & Technical Lead
-`Neuronix AI Solutions`
-
-Lead a cross-functional team of AI engineers, full-stack developers, Flutter engineers, and UI/UX designers — delivering applied AI systems across **healthcare, HR, finance, marketing, and manufacturing**. Own architecture from concept through production deployment.
-
-#### 🤖 &nbsp;AI Engineer
+#### 🤖 &nbsp;Full-Stack AI Engineer
 `HAMS.AI`
 
-Building and deploying production machine learning systems.
+Build and deploy production machine learning systems end to end — data pipelines, model training, API layer, frontend, and containerized delivery.
+
+Applied AI work spanning **healthcare, HR, finance, education, and supply chain**, owning architecture from concept through production deployment.
 
 </td>
 <td width="50%" valign="top">
